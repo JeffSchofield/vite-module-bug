@@ -1,5 +1,7 @@
 # Vite Module Bug
 
+Related issue: [#7454](https://github.com/vitejs/vite/issues/7454)
+
 Instructions to reproduce the issue:
 
 1. Run `npm install` for the UI package.
